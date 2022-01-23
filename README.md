@@ -10,4 +10,4 @@ We mainly divide the scene into five aspects: the mist scenes, the cloud-obscure
 
 There are often different cloud interference in mist and cloud-obscured scenes. Low contrast scenes are images with a dark background and images with low illuminations. For incomplete ships, it is caused by cropping or satellite imaging limitations.
 
-We will be uploading data sets and corresponding attribute statistics shortly
+We will be uploading the dataset and the corresponding attribute statistics shortly
