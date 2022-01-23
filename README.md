@@ -10,8 +10,8 @@ We mainly divide the scene into five aspects: the mist scenes, the cloud-obscure
 
 There are often different cloud interference in mist and cloud-obscured scenes. Low contrast scenes are images with a dark background and images with low illuminations. For incomplete ships, it is caused by cropping or satellite imaging limitations.
 
-We use the absolute size ($as_i$) to measure the size of the ship $i$: $as_i = \sqrt{h_i\times w_i}$, where $h_i$ and $w_i$ is the heigh and width of the ship $i$. The statistical results of aspect ratio and absolute scale are recorded in Fig.2![Property](C:\Users\FenHua\Desktop\RSSD\Property.jpg)
+We use the absolute size ($as_i$) to measure the size of the ship $i$: $as_i = \sqrt{h_i\times w_i}$, where $h_i$ and $w_i$ is the heigh and width of the ship $i$. The statistical results of aspect ratio and absolute scale are recorded in Fig.2![Property](Property.jpg)
 
-The ratio of ships with different scales and the ratio of scenes with different complex backgrounds are recorded in Fig. 3![DataPie](C:\Users\FenHua\Desktop\RSSD\DataPie.png)
+The ratio of ships with different scales and the ratio of scenes with different complex backgrounds are recorded in Fig. 3![DataPie](DataPie.png)
 
 We will be uploading data sets shortly !
