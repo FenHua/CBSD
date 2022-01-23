@@ -14,4 +14,4 @@ We use the absolute size ($as_i$) to measure the size of the ship $i$: $as_i = \
 
 The ratio of ships with different scales and the ratio of scenes with different complex backgrounds are recorded in Fig. 3![DataPie](DataPIE.jpg)
 
-We will be uploading data sets shortly !
+The dataset will be uploaded soon!
