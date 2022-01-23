@@ -12,6 +12,6 @@ There are often different cloud interference in mist and cloud-obscured scenes. 
 
 We use the absolute size ($as_i$) to measure the size of the ship $i$: $as_i = \sqrt{h_i\times w_i}$, where $h_i$ and $w_i$ is the heigh and width of the ship $i$. The statistical results of aspect ratio and absolute scale are recorded in Fig.2![Property](Property.jpg)
 
-The ratio of ships with different scales and the ratio of scenes with different complex backgrounds are recorded in Fig. 3![DataPie](DataPie.jpg)
+The ratio of ships with different scales and the ratio of scenes with different complex backgrounds are recorded in Fig. 3![DataPie](DataPIE.jpg)
 
 We will be uploading data sets shortly !
